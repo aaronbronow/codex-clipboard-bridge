@@ -1,6 +1,6 @@
 {
   "name": "codex-clipboard-bridge",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Copy any text to the clipboard from Codex CLI over SSH, Tmux, WSL, Powershell",
   "author": {
     "name": "Aaron Bronow",
