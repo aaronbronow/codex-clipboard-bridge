@@ -1,0 +1,6 @@
+node_modules/
+clipboard_debug.log
+.clipboard_bypass
+.clipboard_bypass.tmp
+.clipboard_pipe
+.bridge_clipboard_cache
